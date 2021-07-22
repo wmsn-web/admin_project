@@ -1,0 +1,11 @@
+{"menu":
+	{"name":"Dashboard","link":"dashboard_link","subs":{}},
+"setting":
+	{"name": "settings", "link":"no", "subs":
+		{
+			"name1":"Settings","link1":"setting_link",
+			"name2":"Settings","link2":"setting_link",
+			"name3":"Settings","link3":"setting_link"
+		}
+	}
+}
